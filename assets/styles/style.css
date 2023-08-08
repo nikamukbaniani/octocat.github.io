@@ -1,0 +1,16 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.nav{
+    height: 164px;
+    width: 1364px;
+    
+}
+.nav .logo{
+    color: #30CBC2;
+    font-size: 46px;
+
+}
